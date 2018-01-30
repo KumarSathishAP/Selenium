@@ -8,6 +8,7 @@ public class SampleTest {
 	public void CheckingGitHub()
 	{
 		System.out.println("Working as Expected");
+		System.out.println("Again Doing");
 		
 	}
 
