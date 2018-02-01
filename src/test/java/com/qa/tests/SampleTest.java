@@ -11,5 +11,10 @@ public class SampleTest {
 		System.out.println("Again Doing");
 		
 	}
+	@Test
+	public void updatedinGitHub()
+	{
+		System.out.println("Updating in GitHub");
+	}
 
 }
